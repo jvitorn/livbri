@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<array>
+				<livros>
+						<tipo>sem alma</tipo>
+						<autor>etec</autor>
+						<imagem>imgs/fundo_pc_lab.jpg</imagem>
+						<descricao>nesse dia vc vendeu sua alma para o centro paula souza</descricao>
+				</livros>
+				<livros>
+						<tipo>autoajuda</tipo>
+						<autor>TCD</autor>
+						<imagem>imgs/transferir.jpg</imagem>
+						<descricao>Indo contra a tendência dos textos curtos e superficiais que são postados nas redes sociais, o coletivo literário Textos cruéis demais para serem lidos rapidamente (TCD) passou a produzir e compartilhar um conteúdo extenso, profundo e extremamente poético em suas páginas no Facebook e no Instagram.</descricao>
+				</livros>
+				<livros>
+						<tipo>autoajuda</tipo>
+						<autor>Mortimer J. Adler (Autor),‎ Hugo Langone (Tradutor)</autor>
+						<imagem>imgs/livrotest2.jpg</imagem>
+						<descricao>Mais uma vez, o brilhantismo, a clareza e a erudição de Mortimer Adler são postos à nossa disposição numa obra que, certamente, é tão importante quanto o clássico Como Ler Livros. Se na obra anterior Adler se preocupava com a baixa capacidade de leitura dos estudantes norte-americanos, nesta ele volta seu olhar para a capacidade de falar e de ouvir. Por que com tanta frequência se supõe que a capacidade de falar e de ouvir é inata e não requer nenhum tipo de treinamento, tal como as atividades paralelas – escrever e ler –, quando, na verdade, as primeiras são muito mais difíceis de ensinar e assimilar?</descricao>
+				</livros>
+				<livros>
+						<tipo>hq</tipo>
+						<autor>Homem-Aranha. Negócios de Família - Volume 1</autor>
+						<imagem>imgs/livrotest3.jpg</imagem>
+						<descricao>Homem-Aranha: Negócios de Família. Alguém está atrás do Homem-Aranha, e a única pessoa no Universo Marvel que pode salvá-lo é… a irmã de Peter Parker?! Quando o escalador de paredes conhece um membro da família que ele nunca soube que existia, surge a dúvida: será ela sua maior aliada ou uma inesperada inimiga? E o que o Rei do Crime tem a ver com tudo isso? Acompanhe o maior desafio — e o maior triunfo — do Cabeça de Teia nesta novíssima e original graphic novel </descricao>
+				</livros><livros>
+						<tipo>hq</tipo>
+						<autor>sla</autor>
+						<imagem>imgs/My_Hero_Academia_Soundtrack.png</imagem>
+						<descricao>SMAAAAAASH</descricao>
+				</livros><livros>
+						<tipo></tipo>
+						<autor></autor>
+						<imagem>imgs/Desert.jpg</imagem>
+						<descricao></descricao>
+				</livros><livros>
+						<tipo>CONCEITOS DE ANATOMIA</tipo>
+						<autor>GERARD J. TORTORA</autor>
+						<imagem>imgs/TORTORA.jpg</imagem>
+						<descricao>VC CONHECE SEU CORPO? SABE O NOME DE CADA PARTE QUE O COMPÕE? NESTE LIVRO HA TODAS AS RESPOSTAS PARA SUAS DÚVIDAS. ADQUIRE JÁ POR APENAS R$ 3000 REAIS</descricao>
+				</livros><livros>
+						<tipo>joao</tipo>
+						<autor>joao</autor>
+						<imagem>imgs/</imagem>
+						<descricao>joao</descricao>
+				</livros>

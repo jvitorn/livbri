@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LivBri | Para Quem Ama Livros</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--css-->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+	<!--js-->
+    <script type="text/javascript" src="https://raw.githubusercontent.com/frexy/svg-icon-webcomponent/master/build/iconwc.js"></script>
+    <script type="text/javascript" href="js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+</head>
+<body>
+	<div class="container-fluid">
+			<nav class="navbar navbar-expand-md bg-light navbar-light">
+				<a class="navbar-brand" href="index.html"><img src="livbri.png" id="logo"></a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsible-navbar" href="#collapsible-navbar">
+					<span class="navbar-toggler-icon"></span>
+					</button>
+			<div class="collapse navbar-collapse" id="collapsible-navbar">
+				<ul class="nav navbar">
+					<li class="nav-item">
+						<a class="nav-link" href="index.html"><b>Início</b></a>
+					</li>
+					<li>
+						<a class="nav-link" href="perfil.php"><b>Perfil</b></a>
+					</li>
+					<li>
+						<a class="nav-link" href="adicionados.php"><b>Recentemente Adicionados</b></a>
+					</li>
+					<li>
+						<a class="nav-link" href="busca.php"><b>Pesquisa</b></a>
+					</li>
+					<li>
+						<a class="nav-link" href="livros.html"><b>Livros</b></a>
+					</li>
+					
+				</ul>
+			</div>
+			</nav>
+	</div>
+	<div class="container-fluid">
+		
+		<!--<div class="row">
+			<div class="col-md-2">
+				<nav class="navbar bg-light">
+					<ul class="navbar-nav">
+						<li class="nav-item text-center">
+					    	<b class="text-center">Livros</b>
+					    </li>
+					    <li class="nav-item">
+					      <a class="nav-link" href="#">Arte, Cinema e Fotografia</a>
+					    </li>
+					    <li class="nav-item">
+					      <a class="nav-link" href="#">Autoajuda</a>
+					    </li>
+					   	<li class="nav-item">
+					      <a class="nav-link" href="#">Biografias e Histórias Reais</a>
+					    </li>
+					    <li class="nav-item">
+					      <a class="nav-link" href="#">História</a>
+					    </li>
+					    <li class="nav-item">
+					      <a class="nav-link" href="#">HQs, Mangás e Graphic Novels</a>
+					    </li>
+					    <li class="nav-item">
+					      <a class="nav-link" href="#">Infantil</a>
+					    </li>
+					    <li class="nav-item">
+					      <a class="nav-link" href="#">Romance</a>
+					    </li>
+					</ul>
+				</nav>
+			</div> -->
+		<br><br>
+		<div class="row">
+			<div class="col-md-8 offset-2">
+				  	<div id="myCarrousel" class="carousel slide" data-ride="carousel">
+							  <!-- Indicators -->
+							  <ul class="carousel-indicators">
+							    <li data-target="#myCarrousel" data-slide-to="0" class="active"></li>
+							    <li data-target="#myCarrousel" data-slide-to="1"></li>
+							    <li data-target="#myCarrousel" data-slide-to="2"></li>
+							  </ul>
+							  <!-- The slideshow -->
+							  <div class="carousel-inner">
+							    <div class="carousel-item">
+							      <img src="imgs/promomarvel.jpg" class="img-thumbnail">
+							    </div>
+							    <div class="carousel-item active">
+							      <img src="imgs/promolivros.jpg" class="img-thumbnail">
+							    </div>
+							    <div class="carousel-item">
+							      <img src="imgs/promoromance.jpg" class="img-thumbnail">
+							    </div>
+							  </div
+							  <!-- Left and right controls -->
+							  <a class="carousel-control-prev" href="#myCarrousel" role="button" data-slide="prev">
+							    <span class="carousel-control-prev-icon"></span>
+							    <span class="sr-only">Previous</span>
+							  </a>
+							  <a class="carousel-control-next" href="#myCarrousel"  role="button" data-slide="next">
+							    <span class="carousel-control-next-icon"></span>
+							    <span class="sr-only">Next</span>
+							  </a>
+					</div>
+				<p class="text-center">Destaques e Ofertas em promoção.</p>
+			</div>
+		</div>
+		<br><br>
+			<div class="container-fluid bg-light">
+				<div class="row">
+					<div class="col-md-8 offset-2 text-center">
+						<h5 class="bg-warning" id="legenda">Arte,Cinema e fotografia Em Promoção.</h5>
+						<br>
+						<div class="row">
+							<div class="col-md-4 carrinho">
+								<div class="row">
+									<div class="col-md-6">
+										<img src="imgs/carrinho4.jpg" class="img-thumbnail" style="width:100%">
+									</div>
+									<div class="col-md-6">
+										<h6>Caixa de Pássaros</h6>
+										<p>por Josh Malerman</p>
+										<h4 id="preco"><b>R$:20.00</b></h4>
+									<br>
+									<button class="btn btn-danger" style="">Carrinho</button>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-4 carrinho">
+								<div class="row">
+									<div class="col-md-6">
+										<img src="imgs/carrinho5.jpg" class="img-thumbnail" style="width:100%">
+									</div>
+									<div class="col-md-6">
+										<h6>Roube Como Um Artista. 10 Dicas Sobre Criatividade</h6>
+										<p>por Austin Kleon</p>
+										<h4 id="preco"><b>R$:20.00</b></h4>
+									<br>
+									<button class="btn btn-danger" style="">Carrinho</button>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-4 carrinho">
+								<div class="row">
+									<div class="col-md-6">
+										<img src="imgs/carrinho6.jpg"  class="img-thumbnail" style="width:100%">
+									</div>
+									<div class="col-md-6">
+										<h6>Harry Potter e a Criança Amaldiçoada - Parte Um e Dois</h6>
+										<p>por J.K. Rowling</p>
+										<h4 id="preco"><b>R$:20.00</b></h4>
+									<br>
+									<button class="btn btn-danger" style="">Carrinho</button>
+									</div>
+								</div>
+							</div>
+						<div>		
+					</div>
+					<div class="col-md-8 offset-2">
+						<p class="text-center">Livros Em Promoção</p>
+					</div>
+				<div class="col-md-12">&nbsp;</div>
+				<div class="col-md-12">&nbsp;</div>
+			</div>
+			</div>
+			</div>	
+			</div>	
+				<div class="jumbotron fluid">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12 text-center">
+								<h2><b>ESPECIAL:</h2>
+									<h3 class="bg-info" id="legenda">Guerra Civil</h3></b>
+							</div>
+							<div class="col-md-12">&nbsp;</div>
+							<div class="row">
+								
+									<div class="card-deck justify-content-center">
+										<div class="col-md-1">&nbsp;</div>
+										<div class="card marvel justify-content-center" style="width:250px">
+											<img class="card-img-top img-thumbnail justify-content-center" src="imgs/card5.jpg" alt="Card image" style="width:100%">
+											<div class="card-body bg-info">
+											      <h4 class="card-title">Os Novos Vingadores - Guerra Civil: 1</h4>
+											      <p class="card-text">roubado deles por Wanda Maximoff, a Feiticeira Escarlate, ao fim da chamada "Dinastia M"...</p>
+											      <a href="#" class="btn btn-dark"><b>Veja Mais</b></a>
+											</div>
+										</div>
+										<div class="card marvel" style="width:250px">
+											<img class="card-img-top img-thumbnail" src="imgs/card6.jpg" alt="Card image" style="width:100%">
+											<div class="card-body bg-info">
+											      <h4 class="card-title">Guerra Civil</h4>
+											      <p class="card-text">Trata da notória Guerra Civil, com a mais completa amplitude. Esmiuçando a saga original criada em quadrinhos Investiga as sagas que conduziram...</p>
+											      <a href="#" class="btn btn-dark"><b>Veja Mais</b></a>
+											</div>
+										</div>
+										<div class="card marvel" style="width:250px">
+											<img class="card-img-top img-thumbnail" src="imgs/card4.jpg" alt="Card image" style="width:90%">
+											<div class="card-body bg-info">
+											    <h4 class="card-title">Ms. Marvel Guerra Civil II</h4>
+											    <p class="card-text">Enquanto a Guerra Civil II esquenta, a próxima geração dos Vingadores tem coisas mais importantes com que se preocupar uma competição... </p>
+											    <a href="#" class="btn btn-dark"><b>Veja Mais</b></a>
+											</div>
+										</div>
+										<div class="card marvel" style="width:250px">
+											<img class="card-img-top img-thumbnail" src="imgs/card4.jpg" alt="Card image" style="width:90%">
+											<div class="card-body bg-info">
+											    <h4 class="card-title">Ms. Marvel Guerra Civil II</h4>
+											    <p class="card-text">Enquanto a Guerra Civil II esquenta, a próxima geração dos Vingadores tem coisas mais importantes com que se preocupar uma competição... </p>
+											    <a href="#" class="btn btn-dark"><b>Veja Mais</b></a>
+											</div>
+										</div>
+
+									</div>
+							</div>
+						</div>
+					</div>
+					<br>
+					<div class="col-md-12"><p class="text-center">Especial MARVEL Civil War em HQs</p></div>
+				</div>
+			<div class="row">
+				<div class="col-md-8 offset-2 text-center">
+					<h5 class="bg-danger" id="legenda">Clássicos Infatils Em Promoção.</h5>
+					<br>
+					<div class="row">
+						<div class="col-md-4 carrinho">
+							<div class="row">
+								<div class="col-md-6">
+									<img src="imgs/carrinho1.jpg" class="img-thumbnail" style="width:100%">
+								</div>
+								<div class="col-md-6">
+									<h6>Clássicos Inesquecíveis. Moana</h6>
+									<p>por Vários Autores</p>
+									<h4 id="preco"><b>R$:20.00</b></h4>
+								<br>
+								<button class="btn btn-danger">Carrinho</button>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 carrinho">
+							<div class="row">
+								<div class="col-md-6">
+									<img src="imgs/carrinho2.jpg" class="img-thumbnail" style="width:100%">
+								</div>
+								<div class="col-md-6">
+									<h6>Clássicos Inesquecíveis. O Rei Leão</h6>
+									<p>por Vários Autores</p>
+									<h4 id="preco"><b>R$:20.00</b></h4>
+								<br>
+								<button class="btn btn-danger" id="btn1">Carrinho</button>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 carrinho">
+							<div class="row">
+								<div class="col-md-6">
+									<img src="imgs/carrinho3.jpg"  class="img-thumbnail" style="width:100%">
+								</div>
+								<div class="col-md-6">
+									<h6>Clássicos Inesquecíveis. Toy Story 3</h6>
+									<p>por Vários Autores</p>
+									<h4 id="preco"><b>R$:20.00</b></h4>
+								<br>
+								<button class="btn btn-danger" >Carrinho</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<br><br>
+			<div class="jumbotron">
+				<div class="row">
+					<div class="col-md-8 offset-2 text-center">
+						<p>Destaque Da Sessão Autoajuda</p>
+						<img src="imgs/publi.jpg" class="img-thumbnail" style="box-shadow: 0px 2px 10px 2px orange;">
+					</div>
+				</div>
+				<br>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="container">
+								<div class="row">
+									<div class="col-md-2">&nbsp;</div>
+									<div class="card-deck justify-content-center">
+										<div class="card marvel" style="width:250px">
+											<img class="card-img-top img-thumbnail" src="imgs/card7.jpg" alt="Card image" style="width:100%">
+											<div class="card-body bg-warning">
+											    <h4 class="card-title">O que É Lugar de Fala? </h4>
+											    <p class="card-text">Muito tem se falado ultimamente sobre o conceito de lugar de fala e muitas polêmicas acerca do tema têm surgido. Fazendo o questionamento de quem tem direito à voz numa sociedade que tem como norma a branquitude, masculinidade... </p>
+											    <a href="#" class="btn btn-dark"><b>Veja Mais</b></a>
+											</div>
+										</div>
+										<div class="card marvel" style="width:250px">
+											<img class="card-img-top img-thumbnail" src="imgs/card8.jpg" alt="Card image" style="width:100%">
+											<div class="card-body bg-warning">
+											      <h4 class="card-title">Vencendo o Medo de Falar em Público</h4>
+											      <p class="card-text">Indicado para pessoas com receio, insegurança ou medo de falar em Público, este livro irá ajudá-lo a vencer estas barreiras deixando a sua Oratória simples e muito bem apresentada...</p>
+											      <a href="#" class="btn btn-dark"><b>Veja Mais</b></a>
+											</div>
+										</div>
+										<div class="card" style="width:250px">
+											<img class="card-img-top img-thumbnail" src="imgs/autoajuda2.jpg" alt="Card image" style="width:100%">
+											<div class="card-body bg-warning">
+											    <h4 class="card-title">O poder da ação</h4>
+											    <p class="card-text">Já aconteceu a você de se olhar no espelho e não gostar daqueles quilos a mais? De observar seu momento profissional somente com frustração? De se sentir desconectado dos seus familiares, dos seus amigos? Se você acha que essas são situações normais, pense de novo!...</p>
+											    <a href="#" class="btn btn-dark"><b>Veja Mais</b></a>
+											</div>
+										</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<nav class="navbar bg-dark" style="border-radius:5px">
+				<ul class="navbar-nav">
+					<a class="navbar-brand" href="index.html"><img src="livbriadm.png" id="logo"></a>
+					<li>
+						<b>Início</b>
+					</li>
+					<li class="nav-item" >
+						<a class="nav-link" href="#">Opções</a>
+					</li>
+					<li>
+						<a class="nav-link" href="perfil.php">Perfil</a>
+					</li>
+					<li>
+						<a class="nav-link" href="busca.php">Pesquisa</a>
+					</li>
+					<li>
+						<a class="nav-link" href="#">Quem Somos</a>
+					</li>
+
+				</ul>
+				<ul class="navbar-nav">
+					<li>
+						<b>Livros</b>
+					</li>
+					 <li class="nav-item">
+					      <a class="nav-link" href="categoria.php?cat=arte">Arte, Cinema e Fotografia</a>
+					    </li>
+					    <li class="nav-item">
+					      <a class="nav-link" href="categoria.php?cat=autoajuda">Autoajuda</a>
+					    </li>
+					   	<li class="nav-item">
+					      <a class="nav-link" href="categoria.php?cat=biografias">Biografias e Histórias Reais</a>
+					    </li>
+					    <li class="nav-item">
+					      <a class="nav-link" href="categoria.php?cat=historia">História</a>
+					    </li>
+					    <li class="nav-item">
+					      <a class="nav-link" href="categoria.php?cat=hq">HQs, Mangás e Graphic Novels</a>
+					    </li>
+					    <li class="nav-item">
+					      <a class="nav-link" href="categoria.php?cat=Infantil">Infantil</a>
+					    </li>
+					    <li class="nav-item">
+					      <a class="nav-link" href="categoria.php?cat=Infantil">Romance</a>
+					    </li>
+				</ul>
+				<ul class="navbar-nav">
+					<li>
+						<b>Redes Sociais</b>
+					</li>
+					 <li class="nav-item">
+					      <a class="nav-link" href="#">Instagram</a>
+					    </li>
+					    <li class="nav-item">
+					      <a class="nav-link" href="#">Twitter</a>
+					    </li>
+					   	<li class="nav-item">
+					      <a class="nav-link" href="#">Facebook</a>
+					    </li>
+					    <li class="nav-item">
+					      <a class="nav-link" href="#">Youtube</a>
+					    </li>
+					    <li class="nav-item">
+					      <b>Email Para Contato</b>
+					    </li>
+					    <li class="nav-item">
+					      <b>livbri@yoopmail.com</b>
+					    </li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+</div>
+<script>
+$(document).on( "click",function(){
+	$(".btn-danger").click(function(){
+        //window.location.href='#myCarrousel';
+        alert("Adicionado Com Sucesso Ao Carrinho");
+    });
+	
+})
+</script>
+</body>
+</html>

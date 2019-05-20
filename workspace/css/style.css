@@ -1,0 +1,69 @@
+.glyphicon{
+	width:50px;
+	height:50px;
+}
+.glyphicon1{
+	width:150px;
+	height:150px;
+}
+#logo{
+	width:150px;
+	height:50px;
+}
+.nav-link:hover {
+	color: #35bcde;
+
+}
+.nav-link{
+	color:black;
+}
+#legenda{
+    border-radius:7px;
+}
+.carrinho{
+    box-shadow: 0px 2px	10px 2px lightgray;
+    border-radius:5px;
+}
+.card{
+    border-radius:5px;
+    box-shadow: 0px 2px	10px 2px black;
+}
+.card-img-top{
+	border-radius:5px;
+}
+#preco{
+	color:#35bcde;
+}
+.bg-light{
+	border-radius:5px;
+}
+.card marvel{
+	width:200px;
+	height:300px;
+}
+#nav{
+	color:white;
+}
+#fundo:hover{
+	background-color:#35bcde;
+	border-radius:5px;
+}
+#main{
+	padding:100px;
+}
+#categoria:hover{
+	background-color:black; 
+	font-color:white;
+	border-radius:10px;
+	font-weight: bold;
+}
+input[type=text]:hover,input[type=file],input[type=date]:hover{ 
+         	background:black; 
+         	border:1px solid black;
+         	color:#1ec8c7;
+}
+input.file{
+			height: 20px;
+			border-radius: 5px;
+			color:black;
+}

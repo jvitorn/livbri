@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<array>
+	<livro>
+			<tipo>hq</tipo>
+			<imagem>imgs/hq.jpg</imagem>
+			<titulo>Reino Do Amanhã</titulo>
+			<descricao>Em um futuro não muito distante, a Terra se tornou o reino dos super-heróis. Infelizmente para os habitantes não tão poderosos do planeta, estes heróis vêm se tornando cada vez mais irresponsáveis e destrutivos, colocando em risco a sobrevivência do mundo inteiro.</descricao>
+	</livro>
+	<livro>
+			<tipo>hq</tipo>
+			<imagem>imgs/hq1.jpg</imagem>
+			<titulo>Batman O Cavaleiro das Trevas</titulo>
+			<descricao>Originalmente uma minissérie em 4 edições lançada no início de 1986, Batman - O Cavaleiro das Trevas levou muito pouco tempo para ser considerada uma das duas pedras angulares dos quadrinhos modernos, ao lado de Watchmen, de Alan Moore.</descricao>
+	</livro>
+	<livro>	
+			<tipo>hq</tipo>
+			<imagem>imgs/hq2.jpg</imagem>
+			<titulo>A Morte do Superman</titulo>
+			<descricao>O épico que chocou uma nação e mudou o Superman para sempre! Uma das histórias mais impressionantes e discutidas dos quadrinhos modernos. A morte do Superman, nas mãos da criatura chamada Apocalypse, virou manchete no mundo todo nos anos 90.</descricao>
+	</livro>
+	<livro>
+			<tipo>hq</tipo>
+			<imagem>imgs/hq3.jpg</imagem>
+			<titulo>Injustice: Gods Among Us</titulo>
+			<descricao>From the makers of Mortal Kombat comes the critically acclaimed prequel comic to the smash hit fighting game Injustice: Gods Among Us!</descricao>
+	</livro>
+	<livro>
+			<tipo>arte</tipo>
+			<imagem>imgs/arte1.jpg</imagem>
+			<titulo>Caligrafia Para Relaxar</titulo>
+			<descricao>À primeira vista, dominar a arte da caligrafia pode parecer difícil, mas você vai se surpreender ao ver como é simples criar lindos projetos. A artista plástica e blogueira Amy Latta usa uma abordagem amistosa e acessível que o tornará confiante para dar os primeiros passos – e logo você estará produzindo verdadeiras obras de arte.</descricao>
+	</livro>
+	<livro>
+			<tipo>arte</tipo>
+			<imagem>imgs/arte2.jpg</imagem>
+			<titulo>Raphael Rabello: o violão em erupção</titulo>
+			<descricao>Esta biografia do violonista carioca Raphael Rabello (1962-1995) conta a meteórica trajetória de um dos maiores instrumentistas que este país já conheceu. Tendo iniciado sua carreira de maneira extraordinariamente precoce ― realizou sua primeira gravação profissional aos treze anos e lançou seu LP de estreia com o grupo de choro Os Carioquinhas aos quinze ―, Raphael logo se tornou um dos principais músicos de estúdio e acompanhantes de shows de nossa MPB.</descricao>
+	</livro>
+	<livro>
+			<tipo>arte</tipo>
+			<imagem>imgs/arte3.jpg</imagem>
+			<titulo>Tudo Sobre Cinema</titulo>
+			<descricao>Este livro vibrante convida você a embarcar em uma viagem inesquecível pelas fotografias mais icônicas da história – imagens inovadoras que se tornaram um divisor de águas na maneira como nos enxergamos e percebemos o mundo à nossa volta.Organizado em ordem cronológica e escrito por uma experiente equipe de críticos especializados, este guia traça um panorama da evolução fotográfica, com seus estilos e movimentos mais importantes.</descricao>
+	</livro>
+	<livro>
+			<tipo>arte</tipo>
+			<imagem>imgs/arte4.jpg</imagem>
+			<titulo>Harry Potter e a Criança Amaldiçoada - Parte Um e Dois</titulo>
+			<descricao>Sempre foi difícil ser Harry Potter e não é mais fácil agora que ele é um sobrecarregado funcionário do Ministério da Magia, marido e pai de três crianças em idade escolar. Enquanto Harry lida com um passado que se recusa a ficar para trás, seu filho mais novo,  Alvo, deve lutar com o peso de um legado de família que ele nunca quis. À medida que passado e presente se fundem de forma ameaçadora, ambos, pai e filho, aprendem uma incômoda verdade: às vezes as trevas vêm de lugares inesperados.</descricao>
+	</livro>
+	<livro>
+			<tipo>arte</tipo>
+			<imagem>imgs/arte5.jpg</imagem>
+			<titulo>Arte em Movimento</titulo>
+			<descricao>"Como nascem os movimentos artísticos? Como os artistas modificam as formas de ver e de representar o mundo? O que difere uma corrente de outra? Com mais de 120 obras dos principais artistas do século XX, como Picasso, Van Gogh, Georges Braque, Duchamp e Keith Haring, este livro passeia pela experimentação artística do período – fauvismo, cubismo, futurismo, Dadá, arte pop, novo realismo – para nos mostrar como a arte acompanhou as subversões que marcaram a história de uma época. Para cada movimento, uma aventura diferente. "</descricao>
+	</livro>
+	<livro>
+			<tipo>autoajuda</tipo>
+			<imagem>imgs/autoajuda1.jpg</imagem>
+			<titulo>12 Regras Para a Vida. Um Antídoto Para o Caos</titulo>
+			<descricao>Aclamado psicólogo clínico, Jordan Peterson tem influenciado a compreensão moderna sobre a personalidade e, agora, se transformou em um dos pensadores públicos mais populares do mundo, com suas palestras sobre tópicos que variam da bíblia, às relações amorosas e à mitologia, atraindo dezenas de milhões de espectadores. Em uma era de mudanças sem precedentes e polarização da política, sua mensagem franca e revigorante sobre o valor da responsabilidade individual e da sabedoria ancestral tem ecoado em todos os cantos do mundo.</descricao>
+	</livro>
+	<livro>
+			<tipo>autoajuda</tipo>
+			<imagem>imgs/autoajuda2.jpg</imagem>
+			<titulo>O Poder da Ação</titulo>
+			<descricao>"Já aconteceu a você de se olhar no espelho e não gostar daqueles quilos a mais? De observar seu momento profissional somente com frustração? De se sentir desconectado dos seus familiares, dos seus amigos? Se você acha que essas são situações normais, pense de novo! Só porque isso acontece com várias pessoas não quer dizer que a vida deva ser assim. Só porque algo se torna comum, não significa que seja normal! Neste livro, Paulo Vieira lhe convida a quebrar o ciclo vicioso e iniciar um caminho de realização. Para isso, ele apresenta o método responsável por impactar 250 mil pessoas ao longo de sua carreira - e que pode ser a chave para o que você tanto procura. No decorrer destas páginas, o autor lhe entrega uma bússola. E para conseguir se guiar por ela você terá de assumir um compromisso com a mudança. Preparado?</descricao>
+	</livro>
+	<livro>
+			<tipo>autoajuda</tipo>
+			<imagem>imgs/autoajuda3.jpg</imagem>
+			<titulo>Quem Pensa Enriquece</titulo>
+			<descricao>Todos querem ficar ricos. Poucos conseguem. Qual será o segredo, a fórmula que cria milionários? Por vinte anos, Napoleon Hill, autor de "Quem Pensa Enriquece", se dedicou a descobri-la. E conseguiu. Ele acompanhou de perto a ascensão de 500 das maiores fortunas do mundo. Convivendo com mitos com Henry Ford, Theodore Roosevelt, King Gillette e John Rockefeller, o autor encontrou 15 características comuns a todos esses grandes vencedores.</descricao>
+	</livro>
+	<livro>
+			<tipo>autoajuda</tipo>
+			<imagem>imgs/autoajuda4.jpg</imagem>
+			<titulo>Por que Fazemos o que Fazemos?</titulo>
+			<descricao>Bateu aquela preguiça de ir para o escritório na segunda-feira? A falta de tempo virou uma constante? A rotina está tirando o prazer no dia a dia? Anda em dúvida sobre qual é o real objetivo de sua vida? O filósofo e escritor Mario Sergio Cortella desvenda em Por que fazemos o que fazemos? as principais preocupações com relação ao trabalho. Dividido em vinte capítulos, ele aborda questões como a importância de ter uma vida com propósito, a motivação em tempos difíceis, os valores e a lealdade – a si e ao seu emprego.</descricao>
+	</livro>
+	<livro>
+			<tipo>autoajuda</tipo>
+			<imagem>imgs/autoajuda5.jpg</imagem>
+			<titulo>Os 7 Hábitos das Pessoas Altamente Eficazes</titulo>
+			<descricao>Um dos maiores fenômenos editoriais no mundo dos negócios ― e considerado nessa área o livro mais influente do século XX pela revista Forbes ―. Os 7 hábitos das pessoas altamente eficazes. de Stephen Covey. está completando quinze anos de sucesso ininterrupto. Traduzido em 38 idiomas. vendeu mais de 15 milhões de exemplares em todo o mundo e ocupou as listas de mais vendidos durante oito anos consecutivos. Para comemorar. a Editora Best Seller lança uma edição especial de aniversário com prefácio e posfácio inéditos do autor.</descricao>
+	</livro>
+	<livro>
+			<tipo>biografias</tipo>
+			<imagem>imgs/biografia1.jpg</imagem>
+			<titulo>Leonardo da Vinci</titulo>
+			<descricao>Com base em milhares de páginas dos impressionantes cadernos que Leonardo manteve ao longo de boa parte da vida e nas mais recentes descobertas sobre sua obra e sua trajetória, Walter Isaacson, biógrafo de Einstein e Steve Jobs, tece uma narrativa que conecta arte e ciência, revelando faces inéditas da história de Leonardo. Desfazendo-se da aura de super-humano muitas vezes atribuída ao artista, Isaacson mostra que a genialidade de Leonardo estava fundamentada em características bastante palpáveis, como a curiosidade, uma enorme capacidade de observação e uma imaginação tão fértil que flertava com a fantasia.</descricao>
+	</livro>
+	<livro>
+			<tipo>biografias</tipo>
+			<imagem>imgs/biografia2.jpg</imagem>
+			<titulo>A Marca da Vitória. A Autobiografia do Criador da Nike </titulo>
+			<descricao>Phil Knight, o homem por trás da Nike, sempre foi uma figura envolta em mistério. Agora, neste livro franco e surpreendente, ele conta sua história.
+			Aos 24 anos, depois de se formar e viajar como mochileiro pelo mundo, Knight decidiu que não seguiria um caminho convencional. Em vez de trabalhar para uma grande corporação, iria à luta para criar algo próprio, dinâmico e diferente.</descricao>
+	</livro>
+	<livro>
+			<tipo>biografias</tipo>
+			<imagem>imgs/biografia3.jpg</imagem>
+			<titulo>Minha História</titulo>
+			<descricao>Com uma vida repleta de realizações significativas, Michelle Obama se consolidou como uma das mulheres mais icônicas e cativantes de nosso tempo. Como primeira-dama dos Estados Unidos — a primeira afro-americana a ocupar essa posição —, ela ajudou a criar a mais acolhedora e inclusiva Casa Branca da história.</descricao>
+	</livro>
+	<livro>
+			<tipo>biografias</tipo>
+			<imagem>imgs/biografia4.jpg</imagem>
+			<titulo>O Carcereiro</titulo>
+			<descricao>Responsável por conduzir alguns dos principais presos da Operação Lava Jato, Newton Ishii se tornou conhecido em todo o país como “o Japonês da Federal”. Em O carcereiro, que chega às livrarias em julho pela Rocco, o jornalista Luís Humberto Carrijo traça um perfil do agente federal recém-aposentado, além de trazer suas impressões sobre a operação e vários de seus personagens, dentro e fora das celas.</descricao>
+	</livro>
+	<livro>
+			<tipo>biografias</tipo>
+			<imagem>imgs/biografia5.jpg</imagem>
+			<titulo>O Delator. A História de J.</titulo>
+			<descricao>Os labirintos de uma história essencial para a compreensão dos avanços e mazelas do nosso futebol. José Hawilla, o maior empresário do marketing esportivo do Brasil, dono de uma fortuna estimada em R$ 1,6 bilhão, foi preso em 2013, em Miami, por agentes do FBI. Era o início de uma saga surpreendente: para escapar de uma condenação judicial quase certa, o brasileiro decidiu tornar-se um delator e, mais do que isso, um espião a serviço do governo norte-americano. a conversão de corruptor em delator seria a segunda grande metamorfose na vida de J.</descricao>
+	</livro>
+	<livro>
+			<tipo>infantil</tipo>
+			<imagem>imgs/infantil1.jpg</imagem>
+			<titulo>Salsichas Galácticas. Uma Aventura Espacial</titulo>
+			<descricao>Conheça cosmo, capitão da nave salsicha néon – a melhor carrocinha de cachorro-quente da galáxia.Com seu melhor amigo, Herman, Cosmo passa seus dias cruzando o universo, preparando Mega Cachorros-Quentes e lutando contra todo tipo de inimigos espaciais malucos.Depois que a Princesa Dalila sequestra a si mesma e entra escondida na nave deles, Cosmo e sua tripulação vão ter que se defender dos foguetes da Esquadra Real.</descricao>
+	</livro>
+	<livro>
+			<tipo>infantil</tipo>
+			<imagem>imgs/infantil2.jpg</imagem>
+			<titulo>A Parte que Falta</titulo>
+			<descricao>O protagonista desta história é um ser circular que visivelmente não está completo: falta-lhe uma parte. E ele acredita que existe pelo mundo uma forma que vai completá-lo perfeitamente e que, quando estiver completo, vai se sentir feliz de vez. Então ele parte animado em uma jornada em busca de sua parte que falta. Mas, ao explorar o mundo, talvez perceba que a verdadeira felicidade não está no outro, mas dentro de nós mesmos. Neste livro, leitores de todas as idades vão se deparar com questionamentos sobre o que é o amor e quanto dependemos de um relacionamento ou parceira para nos sentirmos plenamente felizes.</descricao>
+	</livro>
+	<livro>
+			<tipo>infantil</tipo>
+			<imagem>imgs/infantil3.jpg</imagem>
+			<titulo>Nate É Um Estouro</titulo>
+			<descricao>Nate está apaixonado pela aluna nova. Mas depois que a briga dele com Andy ganhou as páginas do Clarim Semanal , ele arrumou um problema bem maior do que o castigo depois da aula! Será que Nate vai dar a volta por cima? E será que a Taça de Lama anual vai ser um estouro... ou uma bomba?Conheça a nova história do Nate, o desenhista mais legal da Escola 38 e o aluno menos querido pelos professores.</descricao>
+	</livro>
+	<livro>
+			<tipo>infantil</tipo>
+			<imagem>imgs/infantil4.jpg</imagem>
+			<titulo>Capitão Cueca e o Livro Supercrocante da Diversão</titulo>
+			<descricao>Se você não sabia qual seria o livro das férias (do feriado, dos fins de semana, do recreio) não precisa mais se preocupar: Jorge e Haroldo estão de volta para mais diversão na companhia do Capitão Cueca, o herói mais cuequento de todos os tempos! Capitão Cueca e o livro supercrocante da diversão traz jogos inéditos, baseados na coleção As Aventuras do Capitão Cueca – que, só no Brasil, já vendeu mais de 350 mil exemplares e em breve vai virar filme. Inspirados em personagens e conflitos da série, há caça-palavras, passo a passo para desenhar os personagens, labirintos e cruzadinhas.</descricao>
+	</livro>
+	<livro>
+			<tipo>infantil</tipo>
+			<imagem>imgs/infantil5.jpg</imagem>
+			<titulo>Quem Soltou O Pum?</titulo>
+			<descricao>A história é simples, mas a sacada é das boas: imagine um cachorrinho de estimação que se chama Pum! Daí dá para tirar diversos trocadilhos, criando frases e situações realmente hilárias. É um tal de não conseguir segurar o Pum, que é barulhento e atrapalha os adultos, que dizem que o Pum molhado, em dia de chuva, fica mais fedido ainda, o que faz o menino passar muita vergonha. Pobre Pum. E pobre dono do Pum!Mas não tem jeito, com o Pum é assim mesmo: simplesmente ninguém consegue evitar que ele escape e cause certos inconvenientes.</descricao>
+	</livro>
+	<livro>
+			<tipo>romance</tipo>
+			<imagem>imgs/romance1.jpg</imagem>
+			<titulo>Ainda Sou Eu</titulo>
+			<descricao>Lou Clark chega em Nova York pronta para recomeçar a vida, confiante de que pode abraçar novas aventuras e manter seu relacionamento a distância. Ela é jogada no mundo dos super-ricos Gopnik — Leonard e a esposa bem mais nova, e um sem-fim de empregados e puxa-sacos. Lou está determinada a extrair o máximo dessa experiência, por isso se lança no trabalho e, antes que perceba, está inserida na alta sociedade nova-iorquina, onde conhece Joshua Ryan, um homem que traz consigo um sopro do passado de Lou.</descricao>
+	</livro>
+	<livro>
+			<tipo>romance</tipo>
+			<imagem>imgs/romance2.jpg</imagem>
+			<titulo>Cem Anos De Solidão</titulo>
+			<descricao>Neste, que é um dos maiores clássicos de Gabriel García Márquez, o prestigiado autor narra a incrível e triste história dos Buendía – a estirpe de solitários para a qual não será dada “uma segunda oportunidade sobre a terra” e apresenta o maravilhoso universo da fictícia Macondo, onde se passa o romance. É lá que acompanhamos diversas gerações dessa família, assim como a ascensão e a queda do vilarejo. Para além dos artifícios técnicos e das influências literárias que transbordam do livro, ainda vemos em suas páginas o que por muitos é considerado uma autêntica enciclopédia do imaginário, num estilo que consagrou o colombiano como um dos maiores autores do século XX.</descricao>
+	</livro>
+	<livro>
+			<tipo>romance</tipo>
+			<imagem>imgs/romance3.jpg</imagem>
+			<titulo>Caixa de Pássaros</titulo>
+			<descricao>Basta uma olhadela para desencadear um impulso violento e incontrolável que acabará em suicídio. Ninguém é imune e ninguém sabe o que provoca essa reação nas pessoas. Cinco anos depois do surto ter começado, restaram poucos sobreviventes, entre eles Malorie e dois filhos pequenos. Ela sonha em fugir para um local onde a família possa ficar em segurança, mas a viagem que tem pela frente é assustadora: uma decisão errada e eles morrerão.</descricao>
+	</livro>
+	<livro>
+			<tipo>romance</tipo>
+			<imagem>imgs/romance4.jpg</imagem>
+			<titulo>Pomba Enamorada Ou Uma Historia De Amor</titulo>
+			<descricao>Com a publicação de Antes do baile verde, em 1970, Lygia Fagundes Telles tornou-se um dos contistas mais expressivos do Brasil. Em seus contos lêem-se as transformações que afetam a classe média brasileira a partir dos anos cinqüenta e, mais especificamente, no período da ditadura militar. (. . . ) A qualidade literária desses contos, em imagens visuais, sugere que a literatura é também uma forma de incursão nas almas e, catarticamente, um lenitivo para os conflitos individuais. É sobre desajustes e desencontros que Lygia constrói seu universo ficcional.</descricao>
+	</livro>
+	<livro>
+			<tipo>romance</tipo>
+			<imagem>imgs/romance5.jpg</imagem>
+			<titulo>O Conto da Aia</titulo>
+			<descricao>Escrito em 1985, o romance distópico O conto da aia, da canadense Margaret Atwood, tornou-se um dos livros mais comentados em todo o mundo nos últimos meses, voltando a ocupar posição de destaque nas listas do mais vendidos em diversos países. Além de ter inspirado a série homônima (The Handmaid’s Tale, no original) produzida pelo canal de streaming Hulu, o a ficção futurista de Atwood, ambientada num Estado teocrático e totalitário em que as mulheres são vítimas preferenciais de opressão, tornando-se propriedade do governo, e o fundamentalismo se fortalece como força política, ganhou status de oráculo dos EUA da era Trump.</descricao>
+	</livro>
+
+</array>
